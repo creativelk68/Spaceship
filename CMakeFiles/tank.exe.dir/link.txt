@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/tank.exe.dir/main.c++.o CMakeFiles/tank.exe.dir/src/Tank.c++.o  -o tank.exe -lsfml-system -lsfml-window -lsfml-graphics 

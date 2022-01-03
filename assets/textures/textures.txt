@@ -1,0 +1,7 @@
+../assets/textures/xwing.png
+../assets/textures/box.png
+../assets/textures/spark1.png
+../assets/textures/spark2.png
+../assets/textures/spark3.png
+../assets/textures/star.png
+../assets/textures/big_star.png

@@ -1,0 +1,2 @@
+../assets/music/menu.ogg
+../assets/music/ingame.ogg
