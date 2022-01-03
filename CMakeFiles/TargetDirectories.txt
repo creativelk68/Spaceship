@@ -1,3 +1,0 @@
-/home/pi/Desktop/C++ Projects/Tank/CMakeFiles/rebuild_cache.dir
-/home/pi/Desktop/C++ Projects/Tank/CMakeFiles/tank.exe.dir
-/home/pi/Desktop/C++ Projects/Tank/CMakeFiles/edit_cache.dir
